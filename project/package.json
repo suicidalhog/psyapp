@@ -58,7 +58,7 @@
     "@vercel/blob": "^0.18.0",
     "@vercel/postgres": "^0.7.0",
     "@xata.io/client": "^0.29.0",
-    "ai": "^3.0.0",
+    "ai": "^5.0.0",
     "autoprefixer": "^10.4.20",
     "bcryptjs": "^2.4.3",
     "better-sqlite3": "^9.0.0",
